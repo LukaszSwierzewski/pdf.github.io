@@ -1,0 +1,10 @@
+.container {
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .container div {
+    margin: 20px;
+    display: flex;
+    flex-direction: column; }
